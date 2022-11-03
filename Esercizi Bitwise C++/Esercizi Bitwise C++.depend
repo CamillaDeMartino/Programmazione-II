@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1624651317 source:c:\users\camil\onedrive\desktop\programmazione ii\esercizi bitwise c++\libreria.cpp
+	<iostream>
+	<bitset>
+	"Header.h"
+
+1620765186 c:\users\camil\onedrive\desktop\programmazione ii\esercizi bitwise c++\header.h
+	<bitset>
+
+1624719199 source:c:\users\camil\onedrive\desktop\programmazione ii\esercizi bitwise c++\main.cpp
+	<iostream>
+	<bitset>
+	"Header.h"
+

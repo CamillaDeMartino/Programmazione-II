@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1626167008 source:c:\users\camil\onedrive\desktop\programmazione ii\alberi\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Header.h"
+
+1626166997 c:\users\camil\onedrive\desktop\programmazione ii\alberi\header.h
+
+1626167026 source:c:\users\camil\onedrive\desktop\programmazione ii\alberi\libreria.c
+	<stdio.h>
+	<stdlib.h>
+	"Header.h"
+

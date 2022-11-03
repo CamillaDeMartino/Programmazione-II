@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1626190110 source:c:\users\camil\onedrive\desktop\programmazione ii\alberi binari di ricerca\libreria.c
+	<stdio.h>
+	<stdlib.h>
+	"Header.h"
+
+1626190071 c:\users\camil\onedrive\desktop\programmazione ii\alberi binari di ricerca\header.h
+
+1626190195 source:c:\users\camil\onedrive\desktop\programmazione ii\alberi binari di ricerca\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Header.h"
+

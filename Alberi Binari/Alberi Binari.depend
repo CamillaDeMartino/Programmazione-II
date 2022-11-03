@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1626172017 source:c:\users\camil\onedrive\desktop\programmazione ii\alberi binari\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Header.h"
+
+1626172017 c:\users\camil\onedrive\desktop\programmazione ii\alberi binari\header.h
+

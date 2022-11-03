@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1624717742 source:c:\users\camil\onedrive\desktop\programmazione ii\ esercizi bitwise\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1624717843 source:c:\users\camil\onedrive\desktop\programmazione ii\ esercizi bitwise\libreria.c
+	<stdio.h>
+	<math.h>
+	"Header.h"
+
+1624717742 c:\users\camil\onedrive\desktop\programmazione ii\ esercizi bitwise\header.h
+

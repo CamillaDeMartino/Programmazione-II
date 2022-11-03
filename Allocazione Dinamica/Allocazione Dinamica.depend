@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1625648733 source:c:\users\camil\onedrive\desktop\programmazione ii\allocazione dinamica\libreria.c
+	<stdio.h>
+	"Header.h"
+	<stdlib.h>
+
+1625648479 c:\users\camil\onedrive\desktop\programmazione ii\allocazione dinamica\header.h
+
+1625648479 source:c:\users\camil\onedrive\desktop\programmazione ii\allocazione dinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Header.h"
+	<time.h>
+

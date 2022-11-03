@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1626211719 source:c:\users\camil\onedrive\desktop\programmazione ii\heap\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Header.h"
+
+1626211719 c:\users\camil\onedrive\desktop\programmazione ii\heap\header.h
+
