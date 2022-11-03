@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1619262412 source:c:\users\camil\onedrive\desktop\programmazione ii\matrici dinamiche\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Header.h"
+	<time.h>
+
+1619262364 source:c:\users\camil\onedrive\desktop\programmazione ii\matrici dinamiche\libreria.c
+	<stdio.h>
+	<stdlib.h>
+	"Header.h"
+
+1619262325 c:\users\camil\onedrive\desktop\programmazione ii\matrici dinamiche\header.h
+
+1619264451 source:c:\users\camil\onedrive\desktop\programmazione ii\lab\matrici dinamiche\libreria.c
+	<stdio.h>
+	<stdlib.h>
+	"Header.h"
+
+1620078456 c:\users\camil\onedrive\desktop\programmazione ii\lab\matrici dinamiche\header.h
+
+1620078419 source:c:\users\camil\onedrive\desktop\programmazione ii\lab\matrici dinamiche\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Header.h"
+	<time.h>
+

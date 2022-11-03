@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621845931 source:c:\users\camil\onedrive\desktop\programmazione ii\lab\es lista lineare\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

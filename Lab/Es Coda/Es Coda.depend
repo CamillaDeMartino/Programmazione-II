@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1621248215 source:c:\users\camil\onedrive\desktop\programmazione ii\lab\es coda\libreria.c
+	<stdio.h>
+	<stdlib.h>
+	"Header.h"
+
+1621248086 c:\users\camil\onedrive\desktop\programmazione ii\lab\es coda\header.h
+
+1621249316 source:c:\users\camil\onedrive\desktop\programmazione ii\lab\es coda\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Header.h"
+

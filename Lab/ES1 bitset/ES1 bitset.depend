@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1616837476 source:c:\users\camil\onedrive\desktop\programmazione ii\lab\es1 bitset\libreria.cpp
+	<stdio.h>
+	"Header.h"
+
+1616837525 c:\users\camil\onedrive\desktop\programmazione ii\lab\es1 bitset\header.h
+
+1616846927 source:c:\users\camil\onedrive\desktop\programmazione ii\lab\es1 bitset\main.cpp
+	<iostream>
+	<bitset>
+	<time.h>
+	"Header.h"
+
