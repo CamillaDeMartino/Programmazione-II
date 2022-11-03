@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1626103113 source:c:\users\camil\onedrive\desktop\programmazione ii\matrici sparse\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

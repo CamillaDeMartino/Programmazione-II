@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1625154002 source:c:\users\camil\onedrive\desktop\programmazione ii\stringhe  c\libreria.c
+	<stdio.h>
+	"Header.h"
+
+1625152782 c:\users\camil\onedrive\desktop\programmazione ii\stringhe  c\header.h
+
+1625153865 source:c:\users\camil\onedrive\desktop\programmazione ii\stringhe  c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Header.h"
+	<string.h>
+

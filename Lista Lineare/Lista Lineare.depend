@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1625908723 source:c:\users\camil\onedrive\desktop\programmazione ii\lista lineare\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Header.h"
+
+1625908717 c:\users\camil\onedrive\desktop\programmazione ii\lista lineare\header.h
+
+1625908717 source:c:\users\camil\onedrive\desktop\programmazione ii\lista lineare\libreria.c
+	<stdio.h>
+	<stdlib.h>
+	"Header.h"
+	<string.h>
+

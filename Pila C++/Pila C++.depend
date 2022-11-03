@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1626103988 source:c:\users\camil\onedrive\desktop\programmazione ii\pila c++\main.cpp
+	<iostream>
+	<stack>
+

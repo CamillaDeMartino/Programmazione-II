@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1621434298 source:c:\users\camil\onedrive\desktop\programmazione ii\tipo numerico intero\libreria.c
+	<stdio.h>
+	"Header.h"
+	<math.h>
+
+1621434298 c:\users\camil\onedrive\desktop\programmazione ii\tipo numerico intero\header.h
+
+1621434298 source:c:\users\camil\onedrive\desktop\programmazione ii\tipo numerico intero\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Header.h"
+

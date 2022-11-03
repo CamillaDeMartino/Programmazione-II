@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626606071 source:c:\users\camil\onedrive\desktop\programmazione ii\selection sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
