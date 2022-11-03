@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1615573865 source:c:\users\camil\onedrive\desktop\programmazione ii\lab i\operatori bitwise\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1617096606 source:c:\users\camil\onedrive\desktop\programmazione ii\operatori bitwise\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"Header.h"
+
+1616416467 source:c:\users\camil\onedrive\desktop\programmazione ii\operatori bitwise\libreria.c
+	<stdio.h>
+	<math.h>
+	"Header.h"
+
+1616416369 c:\users\camil\onedrive\desktop\programmazione ii\operatori bitwise\header.h
+
